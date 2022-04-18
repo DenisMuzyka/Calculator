@@ -8,7 +8,7 @@ public class Arrays_of_Strings {
     String[] strings = new String[3];
        strings[0] = "Привет";
        strings[1] = "Пока";
-       strings[2] = "джава";
+       strings[2] = "джава_";
       for(int i=0;i<strings.length;i++){    // проходит по каждому элементу массива и печатает его
           System.out.println(strings[i]);
       }
